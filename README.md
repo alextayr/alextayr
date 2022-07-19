@@ -3,7 +3,7 @@
 I'm QA Automation Engineer with five years of software development and testing experience, specializing in automating web and performance tests, creating tools, and streamlining deployment processes in support of software development lifecycles.
 
 Feel free to learn more & connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-alextaylor100-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alextaylor01/)](https://www.linkedin.com/in/alextaylor100/)
+[![Linkedin Badge](https://img.shields.io/badge/-alextaylor01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alextaylor01/)](https://www.linkedin.com/in/alextaylor01/)
 [![Gmail Badge](https://img.shields.io/badge/-dogjump7@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dogjump7@gmail.com)](mailto:dogjump7@gmail.com)
 
 
